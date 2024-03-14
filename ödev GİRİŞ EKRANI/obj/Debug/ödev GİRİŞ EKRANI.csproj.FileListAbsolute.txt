@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\bin\Debug\ödev GİRİŞ EKRANI.exe.config
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\bin\Debug\ödev GİRİŞ EKRANI.exe
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\bin\Debug\ödev GİRİŞ EKRANI.pdb
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev GİRİŞ EKRANI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev_GİRİŞ_EKRANI.Form1.resources
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev_GİRİŞ_EKRANI.Form2.resources
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev_GİRİŞ_EKRANI.Properties.Resources.resources
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev GİRİŞ EKRANI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev GİRİŞ EKRANI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev GİRİŞ EKRANI.exe
+C:\Users\user\source\repos\ödev GİRİŞ EKRANI\ödev GİRİŞ EKRANI\obj\Debug\ödev GİRİŞ EKRANI.pdb
